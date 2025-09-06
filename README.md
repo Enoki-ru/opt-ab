@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-optimization in ab design, testing, resultings
+Модуль для изучения A/B тестирования, методов улучшения A/B, сравнения частотных методов с Байесовскими методами тестирования.
 
 ## Project Organization
 
